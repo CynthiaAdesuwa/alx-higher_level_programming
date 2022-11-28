@@ -1,1 +1,1 @@
-Complete this source code to print object-oriented programming with Python, followed by a new line.
+Write a function in C that checks if a singly linked list has a cycle in it.
