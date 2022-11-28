@@ -1,1 +1,1 @@
-Complete this source code to print Welcome to Holberton School!
+Complete this source code
