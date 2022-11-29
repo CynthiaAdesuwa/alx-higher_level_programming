@@ -1,1 +1,1 @@
-Write a function that computes a to the power of b and return the value.
+Write a function that adds two integers and returns the result.
