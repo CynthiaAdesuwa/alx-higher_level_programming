@@ -1,1 +1,1 @@
-Write a program that imports all functions from the file calculator_1.py and handles basic operations.
+Write the Python function def magic_calculation(a, b): that does exactly the same as the following Python bytecode:
