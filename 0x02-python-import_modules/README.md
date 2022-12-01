@@ -1,1 +1,1 @@
-Write a program that prints #pythoniscool, followed by a new line, in the standard output.
+Write a program that prints the alphabet in uppercase, followed by a new line.
