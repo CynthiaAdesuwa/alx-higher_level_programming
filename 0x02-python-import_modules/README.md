@@ -1,1 +1,1 @@
-Write a program that imports functions from the file calculator_1.py, does some Maths, and prints the result.
+Write a program that prints the number of and the list of its arguments.
