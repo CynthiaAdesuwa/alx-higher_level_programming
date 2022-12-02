@@ -1,1 +1,1 @@
-Write a function that prints all integers of a list, in reverse order.
+Write a function that removes all characters c and C from a string.
