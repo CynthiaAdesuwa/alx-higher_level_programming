@@ -1,0 +1,126 @@
+s_palindrome.c:3:2: E113 unexpected indentation                                                                                     
+
+13-is_palindrome.c:4:2: E111 indentation is not a multiple of 4                                                                         
+
+13-is_palindrome.c:4:5: E225 missing whitespace around operator                                                                         
+
+13-is_palindrome.c:5:2: E111 indentation is not a multiple of 4                                                                         
+
+13-is_palindrome.c:6:2: E111 indentation is not a multiple of 4                                                                         
+
+13-is_palindrome.c:7:34: E225 missing whitespace around operator                                                                        
+
+13-is_palindrome.c:9:1: E101 indentation contains mixed spaces and tabs                                                                 
+
+13-is_palindrome.c:9:1: W191 indentation contains tabs                                                                                  
+
+13-is_palindrome.c:9:13: E225 missing whitespace around operator                                                                        
+
+13-is_palindrome.c:9:24: E702 multiple statements on one line (semicolon)                                                               
+
+13-is_palindrome.c:10:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:10:13: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:10:28: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:11:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:11:13: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:11:24: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:13:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:14:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:15:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:15:17: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:15:23: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:16:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:16:10: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:16:23: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:17:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:17:17: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:18:1: W191 indentation contains tabs                                                                                 
+
+s_palindrome.c:3:2: E113 unexpected indentation                                                                                     
+
+13-is_palindrome.c:4:2: E111 indentation is not a multiple of 4                                                                         
+
+13-is_palindrome.c:4:5: E225 missing whitespace around operator                                                                         
+
+13-is_palindrome.c:5:2: E111 indentation is not a multiple of 4                                                                         
+
+13-is_palindrome.c:6:2: E111 indentation is not a multiple of 4                                                                         
+
+13-is_palindrome.c:7:34: E225 missing whitespace around operator                                                                        
+
+13-is_palindrome.c:9:1: E101 indentation contains mixed spaces and tabs                                                                 
+
+13-is_palindrome.c:9:1: W191 indentation contains tabs                                                                                  
+
+13-is_palindrome.c:9:13: E225 missing whitespace around operator                                                                        
+
+13-is_palindrome.c:9:24: E702 multiple statements on one line (semicolon)                                                               
+
+13-is_palindrome.c:10:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:10:13: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:10:28: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:11:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:11:13: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:11:24: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:13:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:14:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:15:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:15:17: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:15:23: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:16:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:16:10: E225 missing whitespace around operator                                                                       
+
+13-is_palindrome.c:16:23: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:17:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:17:17: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:18:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:18:17: E231 missing whitespace after ';'                                                                             
+
+13-is_palindrome.c:18:17: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:19:1: W191 indentation contains tabs                                      13-is_palindrome.c:18:17: E231 missing whitespace after ';'                                                                             
+
+13-is_palindrome.c:18:17: E702 multiple statements on one line (semicolon)                                                              
+
+13-is_palindrome.c:19:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:21:1: W191 indentation contains tabs                                                                                 
+
+13-is_palindrome.c:21:3: E225 missing whitespace around operator                                                                        
+
+13-is_palindrome.c:21:14: E231 missing whitespace after ';'                                                                             
+
+13-is_palindrome.c:21:14: E702 multiple statements on one line (semicolon)  
+
