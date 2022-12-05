@@ -1,1 +1,1 @@
-Write a function in C that checks if a singly linked list is a palindrome.
+Create a C function that prints some basic info about Python lists.
