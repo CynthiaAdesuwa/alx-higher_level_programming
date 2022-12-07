@@ -1,1 +1,1 @@
-Write a function that replaces or adds key/value in a dictionary.
+Write a function that deletes a key in a dictionary.
