@@ -1,1 +1,1 @@
-Write a function that returns the weighted average of all integers tuple (<score>, <weight>)
+Write a function that computes the square value of all integers of a matrix using map
