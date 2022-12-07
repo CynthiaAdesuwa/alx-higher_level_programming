@@ -1,1 +1,1 @@
-Write a function that returns a set of common elements in two sets.
+Write a function that returns a set of all elements present in only one set.
