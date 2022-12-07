@@ -1,1 +1,1 @@
-Create two C functions that print some basic info about Python lists and Python bytes objects.
+Write a function that deletes keys with a specific value in a dictionary.
