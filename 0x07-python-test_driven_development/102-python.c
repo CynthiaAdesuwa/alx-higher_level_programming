@@ -13,18 +13,6 @@ void print_python_string(PyObject *p)
 
 	PyObject *str, *repr;
 
-<<<<<<< HEAD
-	(void)repr
-	;
-	printf("[.] string object info\n")
-	;
-	
-	if (strcmp(p ->ob_type ->tp_name, "str"))
-	{
-		printf("  [ERROR] Invalid String Object\n")
-	;
-		return ;
-=======
 	(void)repr;
 	printf("[.] string object info\n");
 
@@ -32,7 +20,6 @@ void print_python_string(PyObject *p)
 	{
 		printf("  [ERROR] Invalid String Object\n");
 		return;
->>>>>>> a3782004066d612153195ca06db4558ee9db850a
 	}
 
 	if (PyUnicode_IS_COMPACT_ASCII(p))
