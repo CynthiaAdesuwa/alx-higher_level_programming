@@ -64,12 +64,8 @@ Dividing a matrix which its elements aren't integer/float numbers 2:
 
     >>> matrix_divided([["1"], ["2", "3"], ["5", "6", "7"]], 10)
     Traceback (most recent call last):
-<<<<<<< HEAD
-    TypeError: matrix must be a matrix(list of lists) of integers/floats
-=======
     	      ...
     TypeError: matrix must be a matrix (list of lists) of integers/floats
->>>>>>> a3782004066d612153195ca06db4558ee9db850a
 
 Dividing a matrix which some of its elements aren't integer/float numbers:
 
