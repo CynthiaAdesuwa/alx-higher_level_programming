@@ -8,19 +8,17 @@
  * @p: Python Object
  * Return: no return
  */
-void print_python_string(PyObject  *p)
+void print_python_string(PyObject *p)
 {
+
 	PyObject *str, *repr;
 
-	(void)repr
-		;
-	printf("[.] string object info\n")
-		;
-	
+	(void)repr;
+	printf("[.] string object info\n");
+
 	if (strcmp(p->ob_type->tp_name, "str"))
 	{
-		printf("  [ERROR] Invalid String Object\n")
-			;
+		printf("  [ERROR] Invalid String Object\n");
 		return;
 	}
 
