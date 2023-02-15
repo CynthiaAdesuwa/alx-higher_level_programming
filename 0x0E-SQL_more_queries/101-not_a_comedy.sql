@@ -1,0 +1,1 @@
+-- Lists all shows without the comedy genre in the database hbtn_0d_tvshows.
